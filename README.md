@@ -14,5 +14,5 @@ You can click the Preview link to take a look at your changes.
 ![Stars](https://img.shields.io/github/stars/ankitsharma29?color=4078c0&style=for-the-badge)
 
 
-
+![Graph](https://raw.githubusercontent.com/ankitsharma29/github-stats/master/generated/overview.svg#gh-light-mode-only) |
 
