@@ -15,5 +15,4 @@ You can click the Preview link to take a look at your changes.
 
 
 
-![Graph](https://raw.githubusercontent.com/ankitsharma29/github-stats/master/generated/overview.svg#gh-light-mode-only) | ![GitHub Status](https://github-readme-stats.vercel.app/api?username=ankitsharma29&title_color=4078c0&text_color=333&bg_color=fafafa&icon_color=4078c0&border_radius=6&hide=contribs&show_icons=true&include_all_commits=true&count_private=true)
---- | ---
+
